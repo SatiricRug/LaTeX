@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.29)  13 OCT 2015 19:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.9.29)  13 OCT 2015 20:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -130,11 +130,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 36.
+(Font)              <12> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 36.
+(Font)              <8> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 36.
+(Font)              <6> on input line 34.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -145,7 +145,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 {c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 47.
+(Font)              <17.28> on input line 45.
  [2] [3]
 [4] (./autobiography.aux) ) 
 Here is how much of TeX's memory you used:
@@ -159,7 +159,7 @@ Here is how much of TeX's memory you used:
 <c:/texlive/2015/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r12.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on autobiography.pdf (4 pages, 49718 bytes).
+Output written on autobiography.pdf (4 pages, 49719 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
